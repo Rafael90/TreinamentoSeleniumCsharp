@@ -24,3 +24,7 @@ A solution Projeto Automação contém três projetos:
 **Via Visual Studio:**
 
 No Gerenciador de Testes, selecionar os testes que deseja executar, clicar com o botão direito e selecionar Executar
+
+## Material de Apoio
+
+A apostila utilizada durante as aulas está na raiz do projeto com nome [Apostila - Treinamento Selenium Csharp](./Apostila-TreinamentoSeleniumCsharp.pdf)
